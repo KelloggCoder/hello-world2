@@ -8,4 +8,4 @@
 
 # Welcome to ENTR-451
 
-This is me changing the Github repository i created from the reading.
+This is me changing the Github repository i created from the reading :).

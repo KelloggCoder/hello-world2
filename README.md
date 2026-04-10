@@ -8,4 +8,4 @@
 
 # Welcome to ENTR-451
 
-This is an example of a GitHub repository.
+This is me changing the Github repository i created from the reading.
